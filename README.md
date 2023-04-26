@@ -1,6 +1,9 @@
 # PreEntregaSoriano2
 PreEntregaSoriano2
 
+Por las dudas dejo un dropbox con todo el ZIP de todas las secciones y el CSS
+https://www.dropbox.com/s/o0ngh5k6281d5q9/50890-52275-segunda-pre-entrega-de-tu-proyecto-final-eliseojsoriano-preentregasoriano2.zip?dl=0
+
 Dejo link a mi Wireframe en Figma: 
 https://www.figma.com/file/6VgEWtwCUn1uTY5WwcryxE/Untitled?node-id=3%3A102&t=8VczqGPataqt8mUD-1
 
